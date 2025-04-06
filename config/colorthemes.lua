@@ -1,0 +1,17 @@
+return {
+  "folke/tokyonight.nvim",
+  "catppuccin/nvim",
+  "scottmckendry/cyberdream.nvim",
+  "tiagovla/tokyodark.nvim",
+  "bluz71/vim-nightfly-colors",
+  "olimorris/onedarkpro.nvim",
+  "shaunsingh/nord.nvim",
+  "bluz71/vim-moonfly-colors",
+  "sainnhe/edge",
+  "bluz71/vim-nightfly-colors",
+  "maxmx03/fluoromachine.nvim",
+  "oxfist/night-owl.nvim",
+  "luisiacc/gruvbox-baby",
+  "uloco/bluloco.nvim",
+  "samharju/synthweave.nvim",
+}
